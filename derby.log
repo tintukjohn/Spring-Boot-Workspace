@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Aug 13 21:03:02 GMT+08:00 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017b-3f9b-d353-000003a70fd0 
+on database directory memory:C:\Users\tintu\Documents\workspace-spring-tool-suite-4-4.10.0.RELEASE\course-api-data\c544b811-8cc4-49ce-ae1d-b78e3c652491 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4b85612c 
+Loaded from file:/C:/Users/tintu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.2+7-27
+user.dir=C:\Users\tintu\Documents\workspace-spring-tool-suite-4-4.10.0.RELEASE\course-api-data
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
